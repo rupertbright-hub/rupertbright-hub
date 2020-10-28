@@ -2,6 +2,7 @@
 <h3 align="center">I'm passionate about developing clean, functional and beautiful UI.</h3>
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/rbrightb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/rbrightb" height="30" width="40" /></a>
 </p>
