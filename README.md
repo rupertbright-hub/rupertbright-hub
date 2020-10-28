@@ -6,9 +6,8 @@
 - 🕶 When I'm not coding **I will be playing 🎾⚽️🏏 or on my 🚵‍♂️**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupertbright-hub](https://github.com/rupertbright-hub)
-
-<h3 align="left">Connect with me:</h3>
 <br>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/rbrightb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/rbrightb" height="30" width="40" /></a>
 </p>
