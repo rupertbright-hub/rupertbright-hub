@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋 there, I'm Rupert, a Front-end Engineer from London.</h1>
+<br>
 <h3 align="left">I'm passionate about developing clean, functional and beautiful UI.</h3>
 
 - 🔭 My projects include [Zapp and CycleFlow](https://zappbugtracker.herokuapp.com/login)
