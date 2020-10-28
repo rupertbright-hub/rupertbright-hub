@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋there, I'm Rupert, a Front-end Engineer from London.</h1>
+<h1 align="left">Hi 👋there, I'm Rupert, a Front-end Engineer from London.</h1>
 <h3 align="left">I'm passionate about developing clean, functional and beautiful UI.</h3>
 
 <h3 align="left">Connect with me:</h3>
