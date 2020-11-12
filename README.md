@@ -2,7 +2,7 @@
 <br>
 <h3 align="left">I'm passionate about developing clean, functional and beautiful UI.</h3>
 
-- 🔭 My projects include [Zapp and CycleFlow](https://zappbugtracker.herokuapp.com/login)
+- My projects include [Zapp and CycleFlow](https://zappbugtracker.herokuapp.com/login)
 
 - 🕶 When I'm not coding **I will be playing 🎾 ⚽️ 🏏 or on my 🚵‍♂️**
 
