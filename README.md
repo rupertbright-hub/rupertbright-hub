@@ -4,7 +4,7 @@
 
 - My projects include [Zapp and CycleFlow](https://zappbugtracker.herokuapp.com/login)
 
-- 🕶 When I'm not coding **I will be playing 🎾 ⚽️ 🏏 or on my 🚵‍♂️**
+- 🕶 When I'm not coding **I will be playing 🎾  ⚽️  🏏 or on my 🚵‍♂️**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupertbright-hub](https://github.com/rupertbright-hub)
 <br>
